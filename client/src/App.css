@@ -1,0 +1,20 @@
+.title {
+display: flex;
+justify-content: center;
+align-items: center;
+height: 70px;
+width: 100%;
+background-color: #226ba3;
+font-size: 30px;
+color: #fff;
+}
+
+.dados {
+  height: 150px;
+  width: 450px;
+  background-color: #c3e6f1;
+  display: inline-block;
+  justify-content: center; 
+  align-items: center;
+  font-size: 25px,
+}
